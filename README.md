@@ -1,6 +1,5 @@
 # GitRape
-
-Sends requests to your github profile readme view counter, as a result giving the appearance of more views of your account.
+Sends requests to your Github ReadMe view counter, giving the impression that it has received more views.
 
 # Features
 - Proxied or Proxyless
@@ -8,7 +7,23 @@ Sends requests to your github profile readme view counter, as a result giving th
 - Fast Enough
 
 # Disclaimer
+I cannot be held liable for any harm caused by this script. Things like being banned from github, for example.
 
-I cannot be held responsible for any damages caused by this script. Including things such as being banned from github etc.
+# Prerequisites
+- Python Version `3.x`
+- Git CLI
 
+# Installation 
+From github
+```
+git clone https://github.com/7ud/gitrape
+cd gitrape
+pip install -r requirements.txt
+```
 
+# Usage
+
+```
+python3 main.py
+```
+> After that, respond to each prompt. 
