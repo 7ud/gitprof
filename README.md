@@ -1,6 +1,6 @@
 # GitProf
 Sends requests to your Github ReadMe view counter, giving the impression that it has received more views.
-
+Credits to [proxybroker](https://github.com/constverum/ProxyBroker) for the scraping and checking of the proxies.
 # Features
 - Proxied or Proxyless
 - Built-in Proxy Scraper and Checker
