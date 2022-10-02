@@ -1,4 +1,4 @@
-# GitRape
+# GitProf
 Sends requests to your Github ReadMe view counter, giving the impression that it has received more views.
 
 # Features
