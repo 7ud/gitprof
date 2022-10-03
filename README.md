@@ -1,8 +1,8 @@
 # GitProf
 Sends requests to your Github ReadMe view counter, giving the impression that it has received more views.
-
+Proxyscraper built by [proxybroker](https://github.com/bluet/proxybroker2)
 # Features
-- Proxied or Proxyless
+- Proxied
 - Built-in Proxy Scraper and Checker
 - Fast Enough
 
@@ -17,7 +17,7 @@ I cannot be held liable for any harm caused by this script. Things like being ba
 From github
 ```
 git clone https://github.com/7ud/gitrape
-cd gitrape
+cd gitprof
 pip install -r requirements.txt
 ```
 
